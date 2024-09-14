@@ -27,5 +27,8 @@ If applicable, add screenshots to help explain your problem.
  - OS: [e.g. Windows]
  - Version [e.g. 10]
 
+**AMod version**
+State your AMod version here.
+
 **Additional context**
 Add any other context about the problem here.
