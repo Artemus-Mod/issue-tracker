@@ -25,5 +25,5 @@ local ent = GetPointedEntity()
 ent:Ignite()
 ```
 
-## Known Issues
+# Known Issues
 :eyes:
